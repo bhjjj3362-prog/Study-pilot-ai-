@@ -1,0 +1,6 @@
+{
+  "name": "StudyPilot",
+  "description": "Mobile-first dark-mode study companion with AI-powered analogies, step-by-step logic, and exam trap alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
